@@ -16,7 +16,7 @@
       speed: 90,
       loop: false
     })
-    .type('Olá, me chamo <span class="destaque"> Vitor</span>.', {delay:900}).break()
+    .type('Olá, me chamo <span class="destaque">  Jonatas </span>.', {delay:900}).break()
     .type('E sou Desenvolvedor <span class="destaque"> Javascript, </span>', {delay:900}).delete(12)
     .type('<span class="destaque"> PHP, </span>', {delay:500}).delete(5)
     .type('<span class="destaque"> SQL, </span>', {delay:500}).delete(5)
